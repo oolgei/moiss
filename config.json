@@ -18,6 +18,9 @@
       },
       "streamSettings": {
         "network": "ws"
+        "security": "none",
+        "wsSettings": {
+          "path": "/'$id'-vless"
       }
     }
   ],
